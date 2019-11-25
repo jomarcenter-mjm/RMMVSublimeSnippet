@@ -1,0 +1,11 @@
+<!-- struct -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type struct<${3:StructName}>
+]]></content>
+	<tabTrigger>@type struct</tabTrigger>
+	<scope>source.js</scope>
+	<description>struct type</description>
+</snippet>

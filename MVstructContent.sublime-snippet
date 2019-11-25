@@ -1,0 +1,11 @@
+<!-- Struct Starter -->
+<snippet>
+	<content><![CDATA[
+		/*~struct~${1:StructName}:
+		*
+		*/
+]]></content>
+	<tabTrigger>!rmmvStructContent</tabTrigger>
+	<scope>source.js</scope>
+	<description>creates the initial struct</description>
+</snippet>

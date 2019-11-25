@@ -1,0 +1,12 @@
+<!-- variable list -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type file[]
+            * @default []
+]]></content>
+	<tabTrigger>@type listsVariable</tabTrigger>
+	<scope>source.js</scope>
+	<description>variable list type</description>
+</snippet>

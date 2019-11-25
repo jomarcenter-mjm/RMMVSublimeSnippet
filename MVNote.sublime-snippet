@@ -1,0 +1,12 @@
+<!-- note -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type note
+            * @default ${3:Default}
+]]></content>
+	<tabTrigger>@type note</tabTrigger>
+	<scope>source.js</scope>
+	<description>note type</description>
+</snippet>

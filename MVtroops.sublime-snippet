@@ -1,0 +1,12 @@
+<!-- troops -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type troop
+            * @default 1
+]]></content>
+	<tabTrigger>@type troop</tabTrigger>
+	<scope>source.js</scope>
+	<description>troop type</description>
+</snippet>

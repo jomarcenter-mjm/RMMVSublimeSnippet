@@ -1,0 +1,12 @@
+<!-- int -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type number
+            * @default ${3:Default}
+]]></content>
+	<tabTrigger>@type int</tabTrigger>
+	<scope>source.js</scope>
+	<description>int type</description>
+</snippet>

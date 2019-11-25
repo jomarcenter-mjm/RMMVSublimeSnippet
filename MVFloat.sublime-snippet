@@ -1,0 +1,13 @@
+<!--float -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type number
+            * @decimals 2
+            * @default ${3:Default}
+]]></content>
+	<tabTrigger>@type float</tabTrigger>
+	<scope>source.js</scope>
+	<description>float type</description>
+</snippet>

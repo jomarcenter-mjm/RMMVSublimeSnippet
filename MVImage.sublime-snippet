@@ -1,0 +1,13 @@
+<!-- file/image -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type file
+            * @dir img/
+            * @default ${3:Default}
+]]></content>
+	<tabTrigger>@type img</tabTrigger>
+	<scope>source.js</scope>
+	<description>image type</description>
+</snippet>

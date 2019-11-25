@@ -1,0 +1,12 @@
+<!-- items -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type item
+            * @default 1
+]]></content>
+	<tabTrigger>@type item</tabTrigger>
+	<scope>source.js</scope>
+	<description>item type</description>
+</snippet>

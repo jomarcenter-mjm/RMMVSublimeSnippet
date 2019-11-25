@@ -1,0 +1,9 @@
+<!-- @parent -->
+<snippet>
+	<content><![CDATA[
+            * @parent ${1:ParentName}
+]]></content>
+	<tabTrigger>@parent</tabTrigger>
+	<scope>source.js</scope>
+	<description>don't ask me why this is separated</description>
+</snippet>

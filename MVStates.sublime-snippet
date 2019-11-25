@@ -1,0 +1,12 @@
+<!-- state -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type state
+            * @default 1
+]]></content>
+	<tabTrigger>@type state</tabTrigger>
+	<scope>source.js</scope>
+	<description>state type</description>
+</snippet>

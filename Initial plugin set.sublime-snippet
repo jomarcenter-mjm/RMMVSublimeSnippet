@@ -1,0 +1,15 @@
+<!--Opening/Starter -->
+<snippet>
+	<content><![CDATA[
+		/*:
+		* @plugindesc ${1:Description}
+		* @author ${2:Author}
+		* 
+		* @help
+		*
+		*/
+]]></content>
+	<tabTrigger>!rmmvStart</tabTrigger>
+	<scope>source.js</scope>
+	<description>creates the initial set of information and fuctions</description>
+</snippet>

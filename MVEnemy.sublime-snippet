@@ -1,0 +1,12 @@
+<!-- enemy -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type enemy
+            * @default 1
+]]></content>
+	<tabTrigger>@type enemy</tabTrigger>
+	<scope>source.js</scope>
+	<description>enemy type</description>
+</snippet>

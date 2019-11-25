@@ -1,0 +1,11 @@
+<!-- weapon -->
+<snippet>
+	<content><![CDATA[
+		    * @param ${1:Parameters}
+            * @desc ${2:Description}
+            * @type weapon
+            * @default 1
+]]></content>
+	<tabTrigger>@type weapon</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
