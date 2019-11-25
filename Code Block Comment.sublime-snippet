@@ -8,5 +8,5 @@
 ]]></content>
 	<tabTrigger>!rmmvStructContent</tabTrigger>
 	<scope>source.js</scope>
-	<description>creates a comment block to make code cleaner and easier to find<description>
+	<description>creates a comment block to make code cleaner and easier to find</description>
 </snippet>
