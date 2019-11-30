@@ -9,7 +9,7 @@
  *
  */
 ]]></content>
-	<tabTrigger>!rmmvStart</tabTrigger>
+	<tabTrigger>!rmmvstart</tabTrigger>
 	<scope>source.js</scope>
 	<description>creates the initial set of information and fuctions</description>
 </snippet>
