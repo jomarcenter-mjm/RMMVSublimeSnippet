@@ -1,7 +1,7 @@
 <!-- @parent -->
 <snippet>
 	<content><![CDATA[
-            * @parent ${1:ParentName}
+ * @parent ${1:ParentName}
 ]]></content>
 	<tabTrigger>@parent</tabTrigger>
 	<scope>source.js</scope>

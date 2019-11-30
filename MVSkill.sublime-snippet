@@ -1,10 +1,10 @@
 <!-- skill -->
 <snippet>
 	<content><![CDATA[
-		    * @param ${1:Parameters}
-            * @desc ${2:Description}
-            * @type skill
-            * @default 1
+ * @param ${1:Parameters}
+ * @desc ${2:Description}
+ * @type skill
+ * @default 1
 ]]></content>
 	<tabTrigger>@type skill</tabTrigger>
 	<scope>source.js</scope>

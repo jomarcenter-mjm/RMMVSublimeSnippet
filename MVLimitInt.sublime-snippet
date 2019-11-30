@@ -1,12 +1,12 @@
 <!-- limitint -->
 <snippet>
 	<content><![CDATA[
-		    * @param ${1:Parameters}
-            * @desc ${2:Description}
-            * @type number
-            * @max ${3:maxNumber}
-            * @min ${4:minNumber}
-            * @default ${5:Default}
+ * @param ${1:Parameters}
+ * @desc ${2:Description}
+ * @type number
+ * @max ${3:maxNumber}
+ * @min ${4:minNumber}
+ * @default ${5:Default}
 ]]></content>
 	<tabTrigger>@type limitint</tabTrigger>
 	<scope>source.js</scope>

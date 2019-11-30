@@ -1,9 +1,9 @@
 <!-- Struct Starter -->
 <snippet>
 	<content><![CDATA[
-		/*~struct~${1:StructName}:
-		*
-		*/
+/*~struct~${1:StructName}:
+*
+*/
 ]]></content>
 	<tabTrigger>!rmmvStructContent</tabTrigger>
 	<scope>source.js</scope>

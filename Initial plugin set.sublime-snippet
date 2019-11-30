@@ -1,13 +1,13 @@
 <!--Opening/Starter -->
 <snippet>
 	<content><![CDATA[
-		/*:
-		* @plugindesc ${1:Description}
-		* @author ${2:Author}
-		* 
-		* @help
-		*
-		*/
+/*:
+ * @plugindesc ${1:Description}
+ * @author ${2:Author}
+ * 
+ * @help
+ *
+ */
 ]]></content>
 	<tabTrigger>!rmmvStart</tabTrigger>
 	<scope>source.js</scope>

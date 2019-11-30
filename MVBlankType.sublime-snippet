@@ -1,10 +1,10 @@
 <!-- blank -->
 <snippet>
 	<content><![CDATA[
-		    * @param ${1:Parameters}
-            * @desc ${2:Description}
-            * @type ${3:type}
-            * @default ${4:default}
+ * @param ${1:Parameters}
+ * @desc ${2:Description}
+ * @type ${3:type}
+ * @default ${4:default}
 ]]></content>
 	<tabTrigger>@type</tabTrigger>
 	<scope>source.js</scope>

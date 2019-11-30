@@ -1,11 +1,11 @@
 <!-- file/audio -->
 <snippet>
 	<content><![CDATA[
-		    * @param ${1:Parameters}
-            * @desc ${2:Description}
-            * @type file
-            * @dir audio/
-            * @default ${3:Default}
+ * @param ${1:Parameters}
+ * @desc ${2:Description}
+ * @type file
+ * @dir audio/
+ * @default ${3:Default}
 ]]></content>
 	<tabTrigger>@type audio</tabTrigger>
 	<scope>source.js</scope>

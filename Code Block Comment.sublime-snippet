@@ -1,10 +1,10 @@
 <!-- Struct Starter -->
 <snippet>
 	<content><![CDATA[
-		//-----------------------------------------------
-		//${1:Name}
-		//
-		//${2:description}
+//-----------------------------------------------
+//${1:Name}
+//
+//${2:description}
 ]]></content>
 	<tabTrigger>!rmmvStructContent</tabTrigger>
 	<scope>source.js</scope>

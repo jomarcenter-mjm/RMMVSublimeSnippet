@@ -1,10 +1,10 @@
 <!-- file list -->
 <snippet>
 	<content><![CDATA[
-		    * @param ${1:Parameters}
-            * @desc ${2:Description}
-            * @type file[]
-            * @default []
+ * @param ${1:Parameters}
+ * @desc ${2:Description}
+ * @type file[]
+ * @default []
 ]]></content>
 	<tabTrigger>@type listsfile</tabTrigger>
 	<scope>source.js</scope>

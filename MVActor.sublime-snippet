@@ -1,10 +1,10 @@
 <!-- actor -->
 <snippet>
 	<content><![CDATA[
-		    * @param ${1:Parameters}
-            * @desc ${2:Description}
-            * @type actor
-            * @default 1
+ * @param ${1:Parameters}
+ * @desc ${2:Description}
+ * @type actor
+ * @default 1
 ]]></content>
 	<tabTrigger>@type actor</tabTrigger>
 	<scope>source.js</scope>
