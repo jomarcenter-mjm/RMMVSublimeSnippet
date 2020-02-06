@@ -6,7 +6,7 @@
  * @type file
  * @default ${3:Default}
 ]]></content>
-	<tabTrigger>@type file</tabTrigger>
+	<tabTrigger>rmmvtypefile</tabTrigger>
 	<scope>source.js</scope>
 	<description>file type</description>
 </snippet>

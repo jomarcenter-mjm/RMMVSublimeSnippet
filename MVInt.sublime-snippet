@@ -6,7 +6,7 @@
  * @type number
  * @default ${3:Default}
 ]]></content>
-	<tabTrigger>@type int</tabTrigger>
+	<tabTrigger>rmmvtypeint</tabTrigger>
 	<scope>source.js</scope>
 	<description>int type</description>
 </snippet>

@@ -7,7 +7,7 @@
  * @dir img/
  * @default ${3:Default}
 ]]></content>
-	<tabTrigger>@type img</tabTrigger>
+	<tabTrigger>rmmvtypeimg</tabTrigger>
 	<scope>source.js</scope>
 	<description>image type</description>
 </snippet>

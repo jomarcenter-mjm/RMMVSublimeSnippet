@@ -6,7 +6,7 @@
  * @type variable
  * @default 1
 ]]></content>
-	<tabTrigger>@type variable</tabTrigger>
+	<tabTrigger>rmmvtypevariable</tabTrigger>
 	<scope>source.js</scope>
 	<description>variable type</description>
 </snippet>

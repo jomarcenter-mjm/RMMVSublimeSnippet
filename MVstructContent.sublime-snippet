@@ -5,7 +5,7 @@
 *
 */
 ]]></content>
-	<tabTrigger>!rmmvStructContent</tabTrigger>
+	<tabTrigger>rmmvStructContent</tabTrigger>
 	<scope>source.js</scope>
 	<description>creates the initial struct</description>
 </snippet>

@@ -6,6 +6,6 @@
  * @type weapon
  * @default 1
 ]]></content>
-	<tabTrigger>@type weapon</tabTrigger>
+	<tabTrigger>rmmvtypeweapon</tabTrigger>
 	<scope>source.js</scope>
 </snippet>

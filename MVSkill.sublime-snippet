@@ -6,7 +6,7 @@
  * @type skill
  * @default 1
 ]]></content>
-	<tabTrigger>@type skill</tabTrigger>
+	<tabTrigger>rmmvtypeskill</tabTrigger>
 	<scope>source.js</scope>
 	<description>skill type</description>
 </snippet>

@@ -6,6 +6,6 @@
  * @type combo
  * @default ${3:Default}
 ]]></content>
-	<tabTrigger>@type combo</tabTrigger>
+	<tabTrigger>rmmvtypecombo</tabTrigger>
 	<scope>source.js</scope>
 </snippet>

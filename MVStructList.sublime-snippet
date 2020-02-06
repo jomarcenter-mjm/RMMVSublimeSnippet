@@ -6,7 +6,7 @@
  * @type struct<${3:StructName}>[]
  * @default []
 ]]></content>
-	<tabTrigger>@type listsStruct</tabTrigger>
+	<tabTrigger>rmmvtypelistsStruct</tabTrigger>
 	<scope>source.js</scope>
 	<description>struct list type</description>
 </snippet>

@@ -6,7 +6,7 @@
  * @type string[]
  * @default 1
 ]]></content>
-	<tabTrigger>@type listsString</tabTrigger>
+	<tabTrigger>rmmvtypelistsString</tabTrigger>
 	<scope>source.js</scope>
 	<description>string list type</description>
 </snippet>

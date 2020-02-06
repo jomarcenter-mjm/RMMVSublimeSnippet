@@ -6,7 +6,7 @@
  * @type ${3:type}
  * @default ${4:default}
 ]]></content>
-	<tabTrigger>@type</tabTrigger>
+	<tabTrigger>rmmvtype</tabTrigger>
 	<scope>source.js</scope>
 	<description>blank snippets</description>
 </snippet>

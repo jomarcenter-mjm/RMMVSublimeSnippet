@@ -6,7 +6,7 @@
  * @type enemy
  * @default 1
 ]]></content>
-	<tabTrigger>@type enemy</tabTrigger>
+	<tabTrigger>rmmvtypeenemy</tabTrigger>
 	<scope>source.js</scope>
 	<description>enemy type</description>
 </snippet>

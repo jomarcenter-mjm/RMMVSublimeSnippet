@@ -6,7 +6,7 @@
  * @type animation
  * @default 1
 ]]></content>
-	<tabTrigger>@type animation</tabTrigger>
+	<tabTrigger>rmmvtypeanimation</tabTrigger>
 	<scope>source.js</scope>
 	<description>animation type</description>
 </snippet>

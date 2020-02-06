@@ -6,7 +6,7 @@
  * @type armor
  * @default 1
 ]]></content>
-	<tabTrigger>@type armor</tabTrigger>
+	<tabTrigger>rmmvtypearmor</tabTrigger>
 	<scope>source.js</scope>
 	<description>armor type</description>
 </snippet>

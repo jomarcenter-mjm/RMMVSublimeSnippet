@@ -6,7 +6,7 @@
  * @type file[]
  * @default []
 ]]></content>
-	<tabTrigger>@type listsVariable</tabTrigger>
+	<tabTrigger>rmmvtypelistsVariable</tabTrigger>
 	<scope>source.js</scope>
 	<description>variable list type</description>
 </snippet>

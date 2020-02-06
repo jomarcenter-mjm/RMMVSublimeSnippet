@@ -6,7 +6,7 @@
  * @type item
  * @default 1
 ]]></content>
-	<tabTrigger>@type item</tabTrigger>
+	<tabTrigger>rmmvtypeitem</tabTrigger>
 	<scope>source.js</scope>
 	<description>item type</description>
 </snippet>

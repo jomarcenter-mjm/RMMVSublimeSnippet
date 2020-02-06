@@ -7,7 +7,7 @@
  * @dir audio/
  * @default ${3:Default}
 ]]></content>
-	<tabTrigger>@type audio</tabTrigger>
+	<tabTrigger>rmmvtypeaudio</tabTrigger>
 	<scope>source.js</scope>
 	<description>audio type</description>
 </snippet>

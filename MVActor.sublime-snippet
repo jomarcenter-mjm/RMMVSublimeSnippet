@@ -6,7 +6,7 @@
  * @type actor
  * @default 1
 ]]></content>
-	<tabTrigger>@type actor</tabTrigger>
+	<tabTrigger>rmmvtypeactor</tabTrigger>
 	<scope>source.js</scope>
 	<description>actor type</description>
 </snippet>

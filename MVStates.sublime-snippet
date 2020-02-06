@@ -6,7 +6,7 @@
  * @type state
  * @default 1
 ]]></content>
-	<tabTrigger>@type state</tabTrigger>
+	<tabTrigger>rmmvtypestate</tabTrigger>
 	<scope>source.js</scope>
 	<description>state type</description>
 </snippet>

@@ -6,7 +6,7 @@
  * @type troop
  * @default 1
 ]]></content>
-	<tabTrigger>@type troop</tabTrigger>
+	<tabTrigger>rmmvtypetroop</tabTrigger>
 	<scope>source.js</scope>
 	<description>troop type</description>
 </snippet>

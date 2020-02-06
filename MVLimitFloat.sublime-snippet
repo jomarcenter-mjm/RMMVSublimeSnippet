@@ -9,7 +9,7 @@
  * @decimals 2
  * @default ${5:Default}
 ]]></content>
-	<tabTrigger>@type limitfloat</tabTrigger>
+	<tabTrigger>rmmvtypelimitfloat</tabTrigger>
 	<scope>source.js</scope>
 	<description>restricted float type</description>
 </snippet>

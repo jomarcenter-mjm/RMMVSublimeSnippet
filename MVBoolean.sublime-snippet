@@ -6,7 +6,7 @@
  * @type boolean
  * @default ${3:Default}
 ]]></content>
-	<tabTrigger>@type boolean</tabTrigger>
+	<tabTrigger>rmmvtypeboolean</tabTrigger>
 	<scope>source.js</scope>
 	<description>combo type</description>
 </snippet>

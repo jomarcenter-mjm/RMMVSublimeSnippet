@@ -6,7 +6,7 @@
  * @type string
  * @default ${3:Default}
 ]]></content>
-	<tabTrigger>@type string</tabTrigger>
+	<tabTrigger>rmmvtypestring</tabTrigger>
 	<scope>source.js</scope>
 	<description>string type</description>
 </snippet>

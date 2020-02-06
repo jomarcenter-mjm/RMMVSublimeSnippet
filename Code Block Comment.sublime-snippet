@@ -6,7 +6,7 @@
 //
 //${2:description}
 ]]></content>
-	<tabTrigger>!rmmvStructContent</tabTrigger>
+	<tabTrigger>rmmvStructContent</tabTrigger>
 	<scope>source.js</scope>
 	<description>creates a comment block to make code cleaner and easier to find</description>
 </snippet>

@@ -8,7 +8,7 @@
  * @min ${4:minNumber}
  * @default ${5:Default}
 ]]></content>
-	<tabTrigger>@type limitint</tabTrigger>
+	<tabTrigger>rmmvtypelimitint</tabTrigger>
 	<scope>source.js</scope>
 	<description>restricted int type</description>
 </snippet>

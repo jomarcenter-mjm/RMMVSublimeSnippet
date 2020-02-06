@@ -7,7 +7,7 @@
  * @decimals 2
  * @default ${3:Default}
 ]]></content>
-	<tabTrigger>@type float</tabTrigger>
+	<tabTrigger>rmmvtypefloat</tabTrigger>
 	<scope>source.js</scope>
 	<description>float type</description>
 </snippet>

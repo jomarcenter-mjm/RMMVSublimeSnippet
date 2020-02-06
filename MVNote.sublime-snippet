@@ -6,7 +6,7 @@
  * @type note
  * @default ${3:Default}
 ]]></content>
-	<tabTrigger>@type note</tabTrigger>
+	<tabTrigger>rmmvtypenote</tabTrigger>
 	<scope>source.js</scope>
 	<description>note type</description>
 </snippet>
