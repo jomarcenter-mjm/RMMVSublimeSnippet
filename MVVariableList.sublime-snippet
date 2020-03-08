@@ -1,7 +1,7 @@
 <!-- variable list -->
 <snippet>
 	<content><![CDATA[
- * @param ${1:Parameters}
+ @param ${1:Parameters}
  * @desc ${2:Description}
  * @type file[]
  * @default []

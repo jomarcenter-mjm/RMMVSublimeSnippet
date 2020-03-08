@@ -1,7 +1,7 @@
 <!-- struct list -->
 <snippet>
 	<content><![CDATA[
- * @param ${1:Parameters}
+ @param ${1:Parameters}
  * @desc ${2:Description}
  * @type struct<${3:StructName}>[]
  * @default []

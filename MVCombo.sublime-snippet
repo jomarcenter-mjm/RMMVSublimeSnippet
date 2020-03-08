@@ -1,7 +1,7 @@
 <!-- combo -->
 <snippet>
 	<content><![CDATA[
- * @param ${1:Parameters}
+ @param ${1:Parameters}
  * @desc ${2:Description}
  * @type combo
  * @default ${3:Default}

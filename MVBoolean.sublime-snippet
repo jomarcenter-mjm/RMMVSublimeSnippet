@@ -1,7 +1,7 @@
 <!-- boolean -->
 <snippet>
 	<content><![CDATA[
- * @param ${1:Parameters}
+ @param ${1:Parameters}
  * @desc ${2:Description}
  * @type boolean
  * @default ${3:Default}
